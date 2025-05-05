@@ -28,9 +28,9 @@ Each utility program is a standalone `.c` file, making it easy to compile, test,
 ./calculator
 
 ## Goals of this repository 
-   1. Improve C programming skills through practical examples
-   2. Serve as a toolkit for beginners learning how to write functional C programs
-   3. Share open-source mini tools that can be expanded over time
+- Improve C programming skills through practical examples
+- Serve as a toolkit for beginners learning how to write functional C programs
+- Share open-source mini tools that can be expanded over time
 
 ## Contributing 
    Contributions are welcome! You can:
