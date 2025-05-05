@@ -24,8 +24,8 @@ Each utility program is a standalone `.c` file, making it easy to compile, test,
    ```bash
    git clone https://github.com/kunal82917/utility-program-c.git
 2. Compile any program using GCC
-   gcc calculator.c -o calculator
-./calculator
+   `gcc calculator.c -o calculator`
+   `./calculator`
 
 ## Goals of this repository 
 - Improve C programming skills through practical examples
@@ -43,7 +43,7 @@ Each utility program is a standalone `.c` file, making it easy to compile, test,
    This repository is licensed under the MIT License.
 
 ## Acknowledgements
-   Created and maintained by [Kunal] – a CSE student with interest in cybersecurity, blockchain, and clean code.
+   Created and maintained by Kunal – a CSE student with interest in cybersecurity, blockchain, and clean code.
 
 ## Contact
    For feedback or suggestions, feel free to reach out via GitHub Issues or connect on LinkedIn.
