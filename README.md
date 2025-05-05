@@ -26,3 +26,21 @@ Each utility program is a standalone `.c` file, making it easy to compile, test,
 2. Compile any program using GCC
    gcc calculator.c -o calculator
 ./calculator
+
+## Goals of this repository 
+    Improve C programming skills through practical examples
+
+    Serve as a toolkit for beginners learning how to write functional C programs
+
+    Share open-source mini tools that can be expanded over time
+
+## Contributing 
+   Contributions are welcome! You can:
+
+    Suggest new utility ideas
+
+    Report bugs or issues
+
+    Improve the code or add new features
+
+Just open an issue or a pull request!
