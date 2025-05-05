@@ -34,11 +34,17 @@ Each utility program is a standalone `.c` file, making it easy to compile, test,
 
 ## Contributing 
    Contributions are welcome! You can:
+- Suggest new utility ideas
+- Report bugs or issues
+- Improve the code or add new features
+  Just open an issue or a pull request!
 
-    Suggest new utility ideas
+## License 
+   This repository is licensed under the MIT License.
 
-    Report bugs or issues
+## Acknowledgements
+   Created and maintained by [Kunal] – a CSE student with interest in cybersecurity, blockchain, and clean code.
 
-    Improve the code or add new features
+## Contact
+   For feedback or suggestions, feel free to reach out via GitHub Issues or connect on LinkedIn.
 
-Just open an issue or a pull request!
