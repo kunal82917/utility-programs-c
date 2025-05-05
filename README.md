@@ -24,8 +24,7 @@ Each utility program is a standalone `.c` file, making it easy to compile, test,
    ```bash
    git clone https://github.com/kunal82917/utility-program-c.git
 2. Compile any program using GCC
-   `gcc calculator.c -o calculator`
-   `./calculator`
+   `gcc calculator.c -o calculator ./calculator`
 
 ## Goals of this repository 
 - Improve C programming skills through practical examples
